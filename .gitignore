@@ -51,3 +51,5 @@ ENV/
 
 # VSCode settings
 .vscode/
+
+.*/
